@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\messageboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:messageboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\iforegroundmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:iforegroundmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\foregroundmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:foregroundmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|c:\\users\\shahafal\\source\\repos\\iocmessageboardproject\\iocmessageboard.src\\messageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65738294-53FF-43D6-86FA-E3B342E0E777}|IocMessageBoard.csproj|solutionrelative:messageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderMock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageBoardTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageProviderMock.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderMock.cs",
+              "RelativeDocumentMoniker": "..\\..\\IocMessageBoard.Tests\\MessageProviderMock.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderMock.cs",
+              "RelativeToolTip": "..\\..\\IocMessageBoard.Tests\\MessageProviderMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:32:46.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageBoardTests.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageBoardTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\IocMessageBoard.Tests\\MessageBoardTests.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageBoardTests.cs",
+              "RelativeToolTip": "..\\..\\IocMessageBoard.Tests\\MessageBoardTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:19:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\IocMessageBoard.Tests\\MessageProviderTests.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoard.Tests\\MessageProviderTests.cs",
+              "RelativeToolTip": "..\\..\\IocMessageBoard.Tests\\MessageProviderTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:06:25.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\Factory.cs",
+              "RelativeDocumentMoniker": "Factory.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\Factory.cs",
+              "RelativeToolTip": "Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:41:41.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForegroundManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\ForegroundManipulator.cs",
+              "RelativeDocumentMoniker": "ForegroundManipulator.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\ForegroundManipulator.cs",
+              "RelativeToolTip": "ForegroundManipulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:54:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:02:59.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IForegroundManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\IForegroundManipulator.cs",
+              "RelativeDocumentMoniker": "IForegroundManipulator.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\IForegroundManipulator.cs",
+              "RelativeToolTip": "IForegroundManipulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:59:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageBoard.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\MessageBoard.cs",
+              "RelativeDocumentMoniker": "MessageBoard.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\MessageBoard.cs",
+              "RelativeToolTip": "MessageBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:06:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\MessageProvider.cs",
+              "RelativeDocumentMoniker": "MessageProvider.cs",
+              "ToolTip": "C:\\Users\\shahafal\\source\\repos\\IocMessageBoardProject\\IocMessageBoard.Src\\MessageProvider.cs",
+              "RelativeToolTip": "MessageProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:08:38.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
